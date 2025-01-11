@@ -1,6 +1,6 @@
 ---
 
-# Hi there! 👋 I'm [Sukhpreet Singh]  
+# Hi there! 👋 I'm Sukhpreet Singh 
 
 ### 🚀 Full-Stack Developer | 💡 Open-Source Contributor | 🎨 UI/UX Enthusiast  
 
@@ -39,6 +39,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukh8661&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=sukh8661&show_icons=true&theme=radical&hide_border=true" width="48%" />
 </p>
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukh8661&layout=compact&theme=radical)
 
 ---
 
