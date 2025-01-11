@@ -24,7 +24,9 @@
 ## 📌 Featured Projects  
 
 🔹 **[Sleeklink](https://github.com/sukh8661/SleekLink-Link-Shortener)** - **SleekLink** is a user-friendly and efficient link shortener tool designed to convert long, unwieldy links into sleek, shareable URLs in seconds. This project features a modern UI, responsive design, and reliable functionality to enhance your online experience. 🔗✨
+
 🔹 **[WeatherNow](https://github.com/sukh8661/WeatherNow)** -  **WeatherNow** is a simple Weather Forecast Web Application that provides current weather and a 4-day forecast for any city. It fetches real-time weather data using the OpenWeatherMap API and displays key weather details such as temperature, humidity, wind speed, and sky conditions.🌦
+
 🔹 **[TickTock](https://github.com/sukh8661/TickTock-Countdown-Timer)** - **TickTock** is a sleek and customizable countdown timer that allows users to set a specific date and time, track the countdown in real-time, and control the timer with start, stop, and reset functionalities. 🕰️🎯
 
 📌 *Explore all my projects:* [GitHub Repositories](https://github.com/sukh8661?tab=repositories)  
