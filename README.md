@@ -48,7 +48,7 @@
 ## 🤝 Let's Connect!  
 
 🌎 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-💼 **LinkedIn:** [https://linkedin.com/in/sukhpreet-singh-543651315/](https://www.linkedin.com/in/sukhpreet-singh-543651315/)
+💼 **LinkedIn:** [linkedin.com/in/sukhpreet-singh-543651315/](https://www.linkedin.com/in/sukhpreet-singh-543651315/)
 
 ---
 
