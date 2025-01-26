@@ -13,6 +13,7 @@
 ## 🚀 Tech Stack  
 
 🔹 **Languages:** JavaScript, Python, TypeScript, C/C++
+
 🔹 **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
 🔹 **Backend:** Node.js, Express.js, Django, Flask  
 🔹 **Databases:** MongoDB, MySQL, PostgreSQL   
