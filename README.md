@@ -50,8 +50,9 @@
 
 ## 🤝 Let's Connect!  
 
+📧 **Email:** sukhpreet8661@gmail.com
 🌎 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-💼 **LinkedIn:** [linkedin.com/in/sukhpreet-singh-543651315/](https://www.linkedin.com/in/sukhpreet-singh-543651315/)
+💼 **LinkedIn:** [Sukhpreet Singh](https://www.linkedin.com/in/sukhpreet-singh-543651315/)
 
 ---
 
