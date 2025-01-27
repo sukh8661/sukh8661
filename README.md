@@ -51,7 +51,9 @@
 ## 🤝 Let's Connect!  
 
 📧 **Email:** sukhpreet8661@gmail.com
+
 🌎 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+
 💼 **LinkedIn:** [Sukhpreet Singh](https://www.linkedin.com/in/sukhpreet-singh-543651315/)
 
 ---
