@@ -6,7 +6,7 @@
 
 🌍 Passionate about building **scalable** and **user-friendly** applications.  
 🛠 Skilled in **Frontend and Backend** technologies.  
-💡 Always exploring new tools and frameworks to enhance development efficiency.  
+💡 Always exploring new tools and frameworks to enhance development efficiency. 
 
 ---
 
