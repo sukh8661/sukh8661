@@ -5,7 +5,7 @@
 ### 🚀 Full-Stack Developer | 💡 Open-Source Contributor | 🎨 UI/UX Enthusiast  
 
 🌍 Passionate about building **scalable** and **user-friendly** applications.  
-🛠 Skilled in **Frontend and Backend** technologies.  
+🛠 Skilled in **Frontend and Backend** technologies. 
 💡 Always exploring new tools and frameworks to enhance development efficiency. 
 
 ---
